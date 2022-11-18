@@ -1,0 +1,1085 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif; 
+
+}
+
+.text-bar{
+    background-color: rgb(66, 68, 69);
+    
+}
+
+.text-bar .maintext-bar{
+    background-image: url(/Landing-page/img-5.jpg);
+    background-size: cover;
+    opacity: 0.9;
+    margin: 0 auto;
+    
+}
+
+.text-bar .atick-flex{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1152px;
+    margin: 0 auto;
+}
+.text-bar .maintext-bar .texthp{
+    margin-left: 5rem;
+    color:#fbf2f0;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    text-transform: uppercase; 
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.text-bar .maintext-bar .texthp h1{
+    font-size: 23px;
+    font-weight: 900;
+
+}
+
+.text-bar .maintext-bar .texthp p{
+    font-size: 10px;
+    font-weight: 800;
+}
+.text-bar .maintext-bar .i-bar{
+    display: flex;
+    margin-right: 15rem;
+    margin-top: 1.8rem;
+}
+
+.text-bar .maintext-bar .i-bar .atick1 i{
+    font-size: 0.8rem;
+}
+.text-bar .maintext-bar .i-bar .atick2 i{
+    font-size: 0.9rem;
+    padding: 0.45rem;
+}
+
+
+.text-bar .maintext-bar .i-bar .atick3 i{
+    font-size: 0.8rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
+.text-bar .maintext-bar .i-bar i{
+    margin-left: 1rem;
+   background-color: #e4dfde;
+    padding: 0.5rem;
+    font-size: 0.7rem;
+   border-radius: 50%;
+   color: rgb(18, 16, 16);
+}
+
+
+
+
+
+/* ................................................................................................................................................... */
+
+
+
+
+
+
+.section-text{
+    margin-top: 1.5rem;
+    background-color: rgb(40, 150, 121);
+}
+.section-text .maindiv-allsub{
+    color: white;
+    max-width: 1152px ;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.section-text .maindiv-allsub .div-h1text{
+    background-color: rgb(28, 122, 81);
+    
+}
+
+.section-text .maindiv-allsub .div-h1text h3{
+    padding: 1.1rem 5rem;
+    height: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 550;
+}
+
+.section-text .maindiv-allsub .div-p-h2{
+   display: flex;
+   margin-right: 1rem;
+}
+
+.section-text .maindiv-allsub .div-p-h2 i{
+    margin-right: 0.6rem;
+    font-size: 12px;
+}
+
+.section-text .maindiv-allsub .div-p-h2 h2{
+    margin: 0;
+    padding: 0;
+    margin-top: 0.3rem;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+
+}
+
+
+
+/* ................................................................................................................................. */
+
+
+
+
+.sectionall-info{
+    
+}
+
+.sectionall-info .maindiv-info{
+    max-width: 1152px;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 30rem;
+    padding-bottom: 10rem;
+    color: white;
+    padding-left: 5rem;
+
+}
+
+.sectionall-info .maindiv-info .textal-bar p {
+   text-transform: uppercase;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 9px;
+   letter-spacing: 0.3rem;
+   font-weight: 600;
+   
+}
+
+.sectionall-info .maindiv-info .textal-bar h1{
+   padding-top: 1rem;
+   font-family: 'Josefin Sans', sans-serif;
+   letter-spacing: 2px;
+}
+
+.sectionall-info .maindiv-info .textal-bar h6{
+   padding-top: 2rem;
+   font-size: 14px;
+   font-family: 'Josefin Sans', sans-serif;
+   font-weight: 100;
+}
+
+.sectionall-info .maindiv-info .dynamic-text{
+    margin-top: 2rem;
+    display: flex;
+
+}
+
+.sectionall-info .maindiv-info .dynamic-text .button-text button span{
+    font-size: 15px;
+    margin-left: 5px;
+  
+}
+ 
+
+.sectionall-info .maindiv-info .dynamic-text .button-text button{
+    background-color: rgb(24, 196, 150);
+    border: none;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0.7rem 2rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 600;
+
+
+}
+
+
+.sectionall-info .maindiv-info .dynamic-text .button-text{
+    padding-right: 0.5rem;
+}
+.sectionall-info .maindiv-info .dynamic-text .button2-text button{
+    background-color: rgb(238, 244, 242);
+    border: none;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0.7rem 2rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 600;
+    color: black;
+}
+
+
+.sectionall-info .maindiv-info .dynamic-text .button2-text button span{
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.section-ditails .maindiv-ditails{
+    display: flex;
+    width: 100%;
+    
+}
+
+.section-ditails .maindiv-ditails .img-set{
+   width: 50%;
+   
+   
+   
+}
+
+.section-ditails .maindiv-ditails .img-set img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    
+
+   
+}
+
+.section-ditails .maindiv-ditails .right-info{
+    width: 70%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+.section-ditails .maindiv-ditails .right-info .text-h4h1{
+    background-color: rgb(118, 118, 123);
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 3rem;
+}
+
+
+.section-ditails .maindiv-ditails .right-info .text-h4h1 h4{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    color: rgb(29, 37, 37);
+    text-transform: uppercase;
+    font-weight: 600;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    font-size: 11px;
+    margin-bottom: 2rem;
+
+}
+
+
+
+.section-ditails .maindiv-ditails .right-info .text-h4h1 h1{
+    font-family: 'Josefin Sans', sans-serif; 
+    text-transform: capitalize;
+    font-size: 30px;
+    color: rgb(11, 11, 11);
+    line-height: 3rem;
+    letter-spacing: 2px;
+    
+}
+
+
+.section-ditails .maindiv-ditails .right-info .atick0-vai{
+    padding-bottom: 2rem;
+}
+
+
+
+.section-ditails .maindiv-ditails .right-info .atick0-vai .one{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 3rem;
+    height: 10rem;
+    overflow: hidden;
+}
+
+
+.section-ditails .maindiv-ditails .right-info .atick0-vai .one i{
+    color: rgb(36, 162, 162);
+    font-size: 35px;
+    padding: 0;
+    padding-right: 2rem;
+}
+.section-ditails .maindiv-ditails .right-info .atick0-vai .one h2{
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: 18px;
+    padding-bottom: 1rem;
+    font-weight: 600;
+}
+
+.section-ditails .maindiv-ditails .right-info .atick0-vai .one h5{
+    line-height: 2rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 550;
+    overflow: hidden;
+    height: vh;
+
+}
+
+.section-number{
+    background-image: url(/Landing-page/img-5.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+
+.section-number .maindiv-no{
+    max-width: 1152px;
+    margin: 0 auto;
+    color: white;
+    display: grid;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    grid-template-columns: 1fr 1fr;
+}
+.section-number .maindiv-no .number-chat{
+    display: flex;
+    padding-bottom: 3rem;
+    padding-left: 5rem;
+   
+}
+.section-number .maindiv-no .number-chat p{
+    color: rgb(247, 45, 0);
+    font-size: 22px;
+    padding: 1.2rem;
+    background-color: rgb(216, 212, 212);
+    border-radius: 50%;
+
+}
+
+.section-number .maindiv-no .number-chat .atickvai{
+    padding-left: 3rem;
+    font-family: 'Josefin Sans', sans-serif; 
+    color: white;
+
+}
+
+.section-number .maindiv-no .number-chat .atickvai h6{
+    font-weight: 500;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    word-spacing: 1px;
+}
+
+.section-number .maindiv-no .number-chat .atickvai h1{
+    font-size: 30px;
+}
+
+.section-imtpart{
+    background-color: rgb(22, 21, 21);
+    color: white;
+}
+
+.section-imtpart .maindiv-imtpart{
+    max-width: 1152px;
+    margin: 0 auto;
+    justify-content: center;
+    /* margin-right: 1rem;
+    margin-left: 1rem; */
+}
+.section-imtpart .maindiv-imtpart .over-text{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.section-imtpart .maindiv-imtpart .over-text p{
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 10px;
+    color: aqua;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-bottom: 1rem;
+}
+
+.section-imtpart .maindiv-imtpart .over-text h1{
+    text-transform: capitalize;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    line-height: 2rem;
+    padding-bottom: 3rem;
+
+}
+
+.section-imtpart .maindiv-imtpart .last-textgula p{
+    color: aqua;
+    text-transform: uppercase;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+  
+}
+
+.section-imtpart .maindiv-imtpart .last-textgula{
+    margin-top: 3rem;
+}
+.section-imtpart .maindiv-imtpart .last-textgula h1{
+        text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
+        padding-bottom: 3rem;
+        font-size: 32px;
+        font-weight: 500;
+        word-spacing: 0.2rem;
+        margin-top: 0.4rem;
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar{
+    display: flex;
+   
+
+}
+
+
+
+ .section-imtpart .maindiv-imtpart .leftright-textbar .lefttask{
+    padding-right: 1rem;
+    border: none;
+    padding-top: 1.5rem;
+    display: flex;
+    width: 50%;
+    margin-left: 1rem;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .atickp i{
+    font-size: 25px;
+    padding: 0.7rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    background-color: rgba(254, 108, 3, 0.923);
+    border-radius: 50%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+ .section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .left-box h1{
+    text-transform: capitalize;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 3rem;
+    letter-spacing: 1px;
+    margin-left: 1rem;
+
+} 
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .left-box .left-pbar .paltukaj{
+    display: flex;
+    color: rgb(255, 79, 3);
+
+}
+
+    .section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .left-box .left-pbar .paltukaj h5{
+    padding: 0;
+    font-size: 14px;
+    font-family:'Josefin Sans', sans-serif ;
+    padding: 0.2rem 0.3rem;
+    padding-bottom: 2rem;
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .left-box .left-pbar .panda p{
+    padding-top: 0.5rem;
+    padding-bottom: 0.4rem;
+    background-color: #fc5e08;
+    width: 90%;
+    font-family:'Josefin Sans', sans-serif ;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .lefttask .left-box .left-pbar button{
+    background-color: transparent;
+    width: 90%;
+    margin-bottom: 2rem;
+    border: 3px solid  #fc5e08 ;
+    padding: 0.4rem 0;
+    font-family:'Josefin Sans', sans-serif ;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border-radius: 5px;
+
+}
+
+
+/* ////////////////////////////////////////////////////////////// */
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .right-bar{
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 2rem;
+    display: flex;
+    width: 50%;
+    margin-right: 1rem;
+}
+
+     .section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .atick10{
+   
+    border: none;
+    padding-top: 1.5rem;
+    color: black;
+    border-radius: 15px;
+    
+}
+
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .atick10 i{
+    font-size: 25px;
+    padding: 0.7rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    background-color: rgba(254, 108, 3, 0.923);
+    border-radius: 50%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+ .section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .right-bartext h1{
+    text-transform: capitalize;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    margin-left: 1rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    color: black;
+    line-height: 3rem;
+    letter-spacing: 1px;
+
+} 
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .copypaste .right-ptext {
+    display: flex;
+    color: rgb(255, 79, 3);
+    font-family:'Josefin Sans', sans-serif ;
+    margin-bottom: 2rem;
+    
+
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .copypaste .right-ptext h5{
+    margin-top: 0.2rem;
+    font-size: 14px;
+    padding-left: 0.3rem;
+}
+
+    .section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .copypaste .right-ptext h1{
+    padding: 0;
+    font-size: 15px;
+    font-family:'Josefin Sans', sans-serif ;
+    padding: 0.2rem 0.3rem;
+    padding-bottom: 2rem;
+
+}
+
+     .section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .copypaste .panda1 p{
+    padding-top: 0.5rem;
+    padding-bottom: 0.4rem;
+    background-color: #fc5e08;
+    width: 90%;
+    font-family:'Josefin Sans', sans-serif ;
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+    
+    margin-bottom: 2rem;
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar .right-bar .copypaste .panda1{
+   
+}
+
+.section-imtpart .maindiv-imtpart .leftright-textbar  .right-bar .copypaste .panda1 button{
+    background-color: transparent;
+    width: 90%;
+    margin-bottom: 2rem;
+    border: 3px solid  #fc5e08 ;
+    padding: 0.4rem 0;
+    font-family:'Josefin Sans', sans-serif ;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border-radius: 5px;
+
+}
+
+.noramal-info{
+    background-color: rgb(255, 255, 255);
+    font-family:'Josefin Sans', sans-serif ;
+   
+    
+}
+
+.noramal-info .normal-texth1 h1{
+    text-align: center;
+    padding-top: 10rem;
+    font-size: 29px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-family: 'Josefin Sans', sans-serif; 
+
+
+}
+
+.noramal-info .footer-normaltext p{
+        color: rgb(255, 51, 0);
+        text-align: center;
+        font-size: 13px;
+        letter-spacing: 1px;
+        font-weight: 900;
+        margin-top: 10rem;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+}
+
+.noramal-info .footer-normaltext h1{
+    color: black;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+
+.leftright-div1{
+    display: flex;
+    width: 100%;
+    margin-top: 5rem;
+  
+}
+
+.noramal-info .left-1div .paltup{
+   padding-left: 2rem;
+   line-height: 2rem;
+   margin-bottom: 1.5rem;
+}
+.noramal-info .left-1div{
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 300vh;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    
+}
+.noramal-info .left-1div .left-header{
+    display: flex;
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+.noramal-info .left-1div .left-header .img-leftheader img{
+    height: 8vh;
+    width: 8vh;
+    object-fit: cover;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.noramal-info .left-1div .left-header .img-leftheader i{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    font-size: 12px;
+    color: #fc5e08;
+    padding: 0.3rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.noramal-info .left-1div .left-header .h3p-leftheader h3{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+.noramal-info .left-1div .left-header .h3p-leftheader p{
+        padding-top: 1rem;
+        font-weight:500;
+        text-transform: uppercase;
+        font-size: 11px;
+        margin-left: 1rem;
+}
+
+.noramal-info .right-allinfo .right-headerflex{
+    display: flex;
+}
+.noramal-info .right-allinfo .right-headerflex .rightheaderimg img{
+    height: 8vh;
+    width: 8vh;
+    object-fit: cover;
+    position: relative;
+    border-radius: 50%;
+}
+
+
+.newsetion-footer .left-rightside .footer-side{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif; 
+    margin-top: 8rem;
+    line-height: 2rem;
+    margin-bottom: 4rem;
+}
+
+.newsetion-footer .left-rightside .footer-side p{
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight:1000;
+    color: #fc4108;
+    
+
+}
+
+.newsetion-footer .left-rightside .footer-side h1{
+    font-weight: 600;
+}
+
+
+.newsetion-footer .left-rightside .left-alllingo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7rem;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .after-imgset{
+    display: flex;
+    padding-left: 0rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .after-imgset .just-differend{
+    display: flex;
+    padding-left: 0.4rem;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .after-imgset .just-differend p{
+    font-size: 14px;
+    color: #fc0808;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .after-imgset .just-differend h4{
+    font-size: 10px;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+    font-weight: 800;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar{
+    width: 45%;
+    
+    margin-left: 1rem;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar img{
+    object-fit: cover;
+    width: 100%;
+    height: 50vh;
+}
+
+.newsetion-footer .left-rightside .rightside-info{
+    width: 45%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .textteg h1{
+    font-family: 'Josefin Sans', sans-serif; 
+    margin-top: 1.5rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-left: 3rem;
+}
+
+.newsetion-footer .left-rightside .left-alllingo .allkisu-bar .textteg p{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    font-family: 'Josefin Sans', sans-serif; 
+    line-height: 1.5rem;
+    letter-spacing: 1px;
+    margin-bottom: 4rem;
+}
+
+.newsetion-footer .left-rightside .rightside-info .imgrightside img{
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+.arsectionnimuna{
+    font-family: 'Josefin Sans', sans-serif; 
+    background-color: rgb(0, 255, 221);
+}
+
+.arsectionnimuna .ardivnimuna{
+    max-width: 1152px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.arsectionnimuna .ardivnimuna .topsofh1p{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+
+
+.arsectionnimuna .ardivnimuna .topsofh1p h1{
+    line-height: 2rem;
+    letter-spacing: 2px;
+    margin-bottom: 1rem;
+}
+
+
+.arsectionnimuna .ardivnimuna .inputwork{
+    position: relative;
+}
+.arsectionnimuna .ardivnimuna .inputwork p{
+    position: relative;
+    top: 6.4rem;
+    left: 9.5rem;
+}
+.arsectionnimuna .ardivnimuna .inputwork .artickbai{
+    margin-top: 5rem;
+    background-color: rgb(0, 255, 195);
+    margin-right: 1rem;
+    padding-left: 0.5rem;
+    color: rgb(5, 5, 5);
+    cursor: pointer;
+    padding: 0.4rem 1.5rem 0.3rem 0.5rem;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 13px;
+    font-weight: 550;
+    
+}
+
+::-webkit-input-placeholder{
+    color: black;
+    opacity: 0.9;
+}
+
+
+.footer .mainfooter{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    display: flex;
+
+    justify-content: space-around; */
+    background-color: #fffcfc;
+}
+
+.footer .mainfooter .h1h5-footer{
+    width: 40%;
+}
+
+.footer .mainfooter .h1h5-footer h1{
+    font-family: 'Josefin Sans', sans-serif; 
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 22px;
+
+
+
+}
+.footer .mainfooter .h1h5-footer p{
+    font-family: 'Josefin Sans', sans-serif; 
+    margin-top: 3rem;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+.footer-right .footer-atag h2 {
+    text-transform: capitalize;
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: 18px;
+    margin-bottom: 3rem;
+}
+.footer-right .footer-atag a{
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif; 
+    display: list-item;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 1rem;
+    color: rgb(255, 6, 6);
+    
+    
+}
+
+
+.footer .mainfooter .h1h5-footer h5{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    text-transform: uppercase;
+    font-size: 9px;
+    padding-top: 0.3rem;
+    font-weight: 900;
+    color: #fc2908;
+}
+.footer .mainfooter .h1h5-footer .footer-p{
+    display: flex;
+}
+
+.footer .mainfooter .h1h5-footer .footer-p i{
+    padding: 0.5rem;
+    font-size: 10px;
+    background-color: #fc2908;
+    border-radius: 50%;
+    color: white;
+    margin-right: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.footer .mainfooter .h1h5-footer .footer-second {
+    margin-bottom: 3rem;
+}
+
+.footer .mainfooter .h1h5-footer .footer-second h1{
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: system-ui, sans-serif;
+    margin-bottom: 2.5rem;
+}
+
+
+.footer .mainfooter .h1h5-footer .footer-second h4{
+    padding-bottom: 1rem;
+    font-family: 'Josefin Sans', sans-serif; 
+    font-weight: 500;
+}
+
+
+.footer .mainfooter .h1h5-footer .footer-three{
+    margin-bottom: 10rem;
+}
+
+.footer .mainfooter .h1h5-footer .footer-three h1{
+    font-size: 22px;
+    text-transform: capitalize;
+    margin-bottom: 3rem;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+
+.footer .mainfooter .h1h5-footer .footer-three .two{
+    display: flex;
+}
+.footer .mainfooter .h1h5-footer .footer-three .two p{
+    color: #fc0808;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 0.5rem;
+}
+
+.footer .mainfooter .h1h5-footer .footer-three .two h5{
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: 12px;
+    color: black;
+    font-weight: 900;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.footer .mainfooter .right-mainfooter{
+    
+}
+.footer .mainfooter .right-mainfooter .same-right img{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    margin-top: 0.5rem;
+    object-fit: cover;
+    margin-right: 1rem;
+    border: 3px solid black;
+}
+
+.footer .mainfooter .right-mainfooter{
+    width: 40%;
+}
+
+.footer .mainfooter .right-mainfooter .footer-right  .footer-atag h2{
+        font-size: 15px;
+}
+
+
+.footer .mainfooter .right-mainfooter .footer-right  .footer-atag a{
+    font-weight: 550;
+    color: black;
+    padding-bottom: 3rem;
+}
+
+
+.footer .mainfooter h1{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 3rem;
+}
+
+.footer .mainfooter .same-right{
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+
+.footer .mainfooter .same-right .mancelen-flex .atiackbao .one{
+    display: flex;
+}
+
+
+.footer .mainfooter .same-right .mancelen-flex .atiackbao{
+    display: flex;
+   
+}
+
+
+.footer .mainfooter .same-right .mancelen-flex .atiackbao .one p{
+    margin-top: 0.3rem;
+    margin-right: 0.5rem;
+    color: #fc0808;
+}
+
+
+.footer .mainfooter .same-right .mancelen-flex .atiackbao .one h5{
+    margin-right: 2rem;
+    color: #fc0808;
+    margin-top: 0.5rem;
+    text-transform: capitalize;
+}
+
+
+.footer .mainfooter .same-right .mancelen-flex h3{
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-top: 0.7rem;
+}
+
